@@ -30,8 +30,11 @@ build/Release
 node_modules
 jspm_packages
 
+# transpile directory for webpack bundle.js
+dist
+
 # Optional npm cache directory
 .npm
 
 # Optional REPL history
-.node_repl_history
+.node_repl_hi
