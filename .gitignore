@@ -37,4 +37,4 @@ dist
 .npm
 
 # Optional REPL history
-.node_repl_hi
+.node_repl_history
